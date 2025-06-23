@@ -101,7 +101,7 @@ Like it? Consider donating or crediting **FatGoats**! Ko-fi support coming soon.
 
 ## 🧑‍💻 Author
 
-Tyler "FatGoats" Sciullo
+YoungToaster @ The FatGoats
 
 ## 🖥️ Optional: Run Without Docker (Windows EXE)
 
