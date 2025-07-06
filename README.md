@@ -21,7 +21,7 @@ This tool allows you to:
 ### 📦 1. Clone and Build
 
 ```bash
-git clone https://github.com/YourUsername/FatGoats-BedrockAddonInstaller.git
+git clone https://github.com/tywentghxst/FatGoats-BedrockAddonInstaller.git
 cd FatGoats-BedrockAddonInstaller
 docker-compose up --build
 ```
